@@ -319,7 +319,7 @@ body {
   justify-content: center;
   align-items: flex-start;
   background-image: url(img/banner/b17.jpg);
-  width: 550px;
+  min-width: 580px;
   height: 50vh;
   background-size: cover;
   background-position: center;
