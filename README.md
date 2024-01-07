@@ -28,4 +28,4 @@ Kabi Shopping is a sophisticated e-commerce platform dedicated to men's and wome
 
 ## Live Demo
 
-[Kabi Shopping - Live](https://gobi-j.github.io/ecom/)
+[Kabi Shopping - Live](https://gobi-j.github.io/clothing-store/)
